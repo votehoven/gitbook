@@ -40,9 +40,3 @@ A. Incentives will be distributed within 24h-48h from the proposal's end, and ar
 
 A. No. After the incentives are claimable, they are yours to claim whenever, you can wait for rewards to stack in order to pay less gas when claiming.
 
-Q. **What extra incentives am I eligible for when locking my BEETS?**
-
-A.
-
-1. Extra incentives from VoteHoven - These incentives are rewarded to fBEETS holders who delegate to VoteHoven or vote for a pool on snapshot manually to receive their chosen incentive. These rewards are claimable from the VoteHoven site. Please see this [guide](../explainers/quickstart-guide.md) to get started.
-2. Extra incentives from bribe.crv.finance - These incentives are shared between all fBEETS holders equally, and it doesn't depend on your vote/delegation. These rewards are claimable from the Beethoven-X site.
