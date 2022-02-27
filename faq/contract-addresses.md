@@ -2,14 +2,14 @@
 
 
 
-Voter Proxy (\&Delegation Address):
+Bribe:
 
-* ​ADD ME
-
-VoteHovenBribe:
-
-* ​ADD ME
+* ​0xA147C43788AF3916480DF68588536939aC5E4a01
 
 MultiMerkleStash:
 
-* ADD ME
+* 0x2B24346eb899b070C76342aD97A8e8c9fE7738F9
+
+Multisig:
+
+* 0x6083812c2f4520726a8523EEdFD0a4B4f70E3a56
