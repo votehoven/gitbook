@@ -10,7 +10,7 @@ A. [Quickstart Guide](../explainers/quickstart-guide.md)
 
 Q. **When are VoteHoven rounds live?**
 
-A. VoteHoven rounds are live when the Beethoven-X gauge vote proposals are live, bi-weekly, on Thursdays 05:00 UTC until Sunday 17:00 UTC. You can delegate to VoteHoven to vote for you or vote manually in that time window.
+A. VoteHoven rounds are live when the Beethoven-X gauge vote proposals are live, bi-weekly, on Thursdays at a random time until Sunday or 72 hours have passed. You can delegate to VoteHoven to vote for you or vote manually in that time window.
 
 **Q. Do I have to delegate to VoteHoven in order to receive incentives?**
 
@@ -30,7 +30,7 @@ A. Gauge weight votes are bi-weekly, starting Thursdays at 05:00 UTC and ending 
 
 **Q. Where can I see the incentives for the next proposal?**
 
-A. Buyers can only deposit incentives when a proposal starts. The current incentives for a proposal will show up on the VoteHoven website.
+A. Buyers can only deposit incentives when a gauge vote starts. The current incentives for a proposal will show up on the VoteHoven website.
 
 **Q. When are the rewards claimable?**
 
