@@ -14,7 +14,7 @@ A. VoteHoven rounds are live when the Beethoven-X gauge vote proposals are live,
 
 **Q. Do I have to delegate to VoteHoven in order to receive incentives?**
 
-A. No. You can vote yourself for any incentive you'd like, whether delegated or not. If you choose to delegate to VoteHoven, we will vote for you. VoteHoven will try to vote optimally for delegators, so that they would receive the best possible return for their votes. 5% of VoteHoven's delegation power will be used to vote at the direction of Beethoven-X for the health of the protocol.
+A. No. You can vote yourself for any incentive you'd like, whether delegated or not. If you choose to delegate to VoteHoven, we will vote for you. VoteHoven will try to vote optimally for delegators, so that they would receive the best possible return for their votes. 5% of VoteHoven's delegation power will be used to vote at our discretion, and under the guidance of Beethoven-X, for the health of the protocol.
 
 **Q. Will my delegation vote for the highest ROI regardless of how the incentives are being distributed?**
 
