@@ -10,11 +10,15 @@ A. [Quickstart Guide](../explainers/quickstart-guide.md)
 
 Q. **When are VoteHoven rounds live?**
 
-A. VoteHoven rounds are live when the Beethoven-X gauge vote proposals are live, bi-weekly, on Thursdays 05:00 UTC until Sunday 17:00 UTC. You can delegate to VoteHoven to vote for you or vote manually in that time window.
+A. VoteHoven rounds are live when the Beethoven-X gauge vote proposals are live, bi-weekly, on Thursdays until Sunday. You can delegate to VoteHoven to vote for you or vote manually in that time window.
 
 **Q. Do I have to delegate to VoteHoven in order to receive incentives?**
 
-A. No. You can vote yourself for any incentive you'd like, whether delegated or not. If you choose to delegate to VoteHoven, we will vote for you. VoteHoven will try to vote optimally for delegators, so that they would receive the best possible return for their votes. 5% of VoteHoven's delegation power will be used to vote for the wsSCRV pool.
+A. No. You can vote yourself for any incentive you'd like, whether delegated or not. If you choose to delegate to VoteHoven, we will vote for you. VoteHoven will try to vote optimally for delegators, so that they would receive the best possible return for their votes. 5% of VoteHoven's delegation power will be used to vote at our discretion, and under the guidance of Beethoven-X, for the health of the protocol.
+
+**Q. Will my delegation vote for the highest ROI regardless of how the incentives are being distributed?**
+
+A. Yes, we will vote for the highest ROI regardless of how it is being distributed.
 
 **Q. Can I vote myself if I'm delegated?**
 
@@ -26,7 +30,7 @@ A. Once. Your delegation is registered even if you lock more BEETS, unlock BEETS
 
 **Q. When do I have to lock/delegate my BEETS in order to be eligible for the incentives?**
 
-A. Gauge weight votes are bi-weekly, starting Thursdays at 05:00 UTC and ending on Sundays 17:00 UTC. To be eligible for the incentive will you will have to lock before the proposal starts. For VoteHoven to vote for you you will have to delegate before the proposal starts. If you have locked before the aforementioned time window, but did not delegate before it, please vote manually this proposal to be eligible for an incentive.
+A. Gauge weight votes are bi-weekly, starting Thursdays and ending on Sundays. To be eligible for the incentive will you will have to lock before the snapshot proposal starts. For VoteHoven to vote for you you will have to delegate before the proposal starts. If you have locked before the aforementioned time window, but did not delegate before it, please vote manually this proposal to be eligible for an incentive.
 
 **Q. Where can I see the incentives for the next proposal?**
 
